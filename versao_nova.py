@@ -1,0 +1,1 @@
+print("Com Jesus , Maria e São Miguel Arcanjo e perseverança eu vencerei essa batha!!")
